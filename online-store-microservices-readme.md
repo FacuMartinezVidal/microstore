@@ -1,4 +1,4 @@
-# Sistema de Gestión de Tienda en Línea con Microservicios
+# MicroStore: Sistema de Gestión de Tienda en Línea con Microservicios
 
 Este proyecto implementa un sistema de tienda en línea utilizando una arquitectura de microservicios. Cada microservicio es responsable de una función específica del negocio y puede ser desarrollado, desplegado y escalado de forma independiente.
 
